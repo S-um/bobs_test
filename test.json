@@ -1,5 +1,12 @@
-{
-"fruit": "Apple",
-"size": "Large",
-"color": "Red"
-}
+[
+	{
+		"fruit": "Apple",
+		"size": "Large",
+		"color": "Red"
+	},
+	{
+		"friut": "Banana",
+		"size": "Small",
+		"color": "Yellow"
+	}
+]
