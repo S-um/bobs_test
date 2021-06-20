@@ -1,12 +1,18 @@
 [
 	{
-		"fruit": "Grape",
-		"size": "Large",
-		"color": "Violet"
+		"menu": "짜장면",
+		"time": "18:00"
 	},
 	{
-		"friut": "Banana",
-		"size": "Small",
-		"color": "Yellow"
+		"menu": "케이크",
+		"time": "19:00"
+	},
+	{
+		"menu": "짜장면",
+		"time": "18:00"
+	},
+	{
+		"menu": "케이크",
+		"time": "19:00"
 	}
 ]
